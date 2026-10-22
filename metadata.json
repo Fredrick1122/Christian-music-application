@@ -1,0 +1,6 @@
+{
+  "name": "Kadosh Motion - Christian Music & Messages Player",
+  "description": "High-fidelity Christian music and message player featuring Bishop Dag & Joshua Heward-Mills messages, Dancing Stars, Prayer Chants, Worship & Praises with real-time soundwave motion visualizer, offline mode, AI voice playback, and sleep timer.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
